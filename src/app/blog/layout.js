@@ -1,6 +1,9 @@
 export const metadata = {
   title: " Buland Darwaza Blog - Travel Tips, History & Visitor Guides",
   description: "Read expert articles about Buland Darwaza - travel tips, historical insights, photography guides, best visiting times, and local experiences at Fatehpur Sikri.",
+  alternates: {
+    canonical: "https://bulanddarwaza.com/blog",
+  }
 };
 
 export default function Layout({ children }) {

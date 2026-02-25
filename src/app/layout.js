@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Buland Darwaza - Gateway of Magnificence | Fatehpur Sikri's Iconic Monument",
   description: "Visit Buland Darwaza, the world's tallest gateway at Fatehpur Sikri. Discover the history, architecture, and timings of this UNESCO World Heritage Site near Agra, India.",
+    alternates: {
+      canonical: "https://bulanddarwaza.com",
+    },
    icons: {
     icon: [
       { url: '/bd-32x32.png', sizes: '32x32', type: 'image/png' },
